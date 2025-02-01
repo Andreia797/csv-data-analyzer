@@ -10,8 +10,8 @@ Um analisador de dados em arquivos CSV. Realiza análises estatísticas e gera g
 
 ## Requisitos
 - Python 3.6 ou superior
-- Biblioteca pandas (instale com ```bash pip install pandas)
-- Biblioteca matplotlib (instale com ```bash pip install matplotlib)
+- Biblioteca pandas (instale com  ```bash pip install pandas)
+- Biblioteca matplotlib (instale com  ```bash pip install matplotlib)
 
 ## Como usar
 
